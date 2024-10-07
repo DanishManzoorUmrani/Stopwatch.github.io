@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.App{
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    color: wheat;
+}
+.color{
+    color: rgb(241, 4, 182);
+    font-size: 40px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+button{
+    width: 100px;
+    padding: 8px;
+    background-color: blue;
+    border-radius: 10px;
+    border-color: transparent;
+    margin: 10px;
+    color: white;
+}
+button:hover{
+    background-color: rgb(248, 246, 250);
+    color: blue;
+    border-color: blue;
+    
+}
